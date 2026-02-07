@@ -377,16 +377,16 @@ export const SCHEDULE_DATA: DaySchedule[] = [
       },
       {
         id: "25-0-2",
-        time: "18:00",
+        time: "17:45",
         type: "FOOD",
-        title: "五條家 (ごじょうや)",
+        title: "北新地 串炸 凡",
         description: "創作串炸料理 (Kushi-katsu)，晚餐。",
-        transitDetail: "位於東心齋橋，從梅田搭地鐵回心齋橋站步行前往。",
-        tips: "已預約 18:00，請準時。",
+        transitDetail: "位於北新地，從梅田搭地鐵前往。",
+        tips: "已預約 17:45，請準時。",
         location: {
-          name: "五條家 (Gojoya)",
-          url: "https://maps.google.com/?q=Gojoya+Osaka+Higashishinsaibashi",
-          addressQuery: "Gojoya Osaka Higashishinsaibashi"
+          name: "Kitashinchi Kushikatsu Bon",
+          url: "https://maps.app.goo.gl/tHQp8cSX8Pe8FDvb7",
+          addressQuery: "北新地 串かつ凡 "
         }
       },
       {
